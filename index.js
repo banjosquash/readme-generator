@@ -56,3 +56,51 @@ inquirer
         name: 'email'
       },
     ])
+
+    .then((data) => {
+      console.log(data)
+      //use write file to generate a readme file
+      fs.writeFile('README-GENERATE.md', (generateReadme(data)), (err) => 
+      err? console.log(err) : console.log('success!'))
+    });
+
+    // readme template populated with user input 
+    const generateReadme = (data) => {
+      return`
+      ### License:
+
+      # Title: ${data.title}
+
+      ## Description: ${data.description}
+      
+      ## Table of Contents:
+      * [title](#title)
+      * [Description](#description)
+      * [Table of Contents](#table-of-contents)
+      * [Installation](#installation)
+      * [Usage](#usage)
+      * [License](#license)
+      * [Contributing](#contributing)
+      * [Testing](#testing)
+      * [Questions](#questions)
+      
+      ## Installation: ${data.installation}
+
+      ## Usage: ${data.usage}
+
+      ## Licensing:
+
+      ## Contributing: ${data.contributing}
+
+      ## Testing Instructions: ${data.testing}
+
+      ## Questions: ${data.questions}
+
+      Contact Me:
+
+      Github: https://github.com/${data.github}
+
+      Email: ${data.email}
+        `
+    };
+    
