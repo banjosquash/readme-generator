@@ -138,12 +138,12 @@ ${data.description}
 ${data.usage}
 ## Licensing: This application is covered under ${licenseSection(data)}.
 
-## Contributing: ${data.contributing}
-
-## Testing Instructions: ${data.testing}
-
-## Questions: ${data.questions}
-
+## Contributing: 
+${data.contributing}
+## Testing Instructions: 
+${data.testing}
+## Questions: 
+${data.questions}
 Contact Me:
 
 Github: https://github.com/${data.github}
