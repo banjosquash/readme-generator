@@ -1,10 +1,10 @@
 
 ### License: [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT), (https://opensource.org/licenses/MIT)
 
-# Title:  ReadMe Generator
+# Title: Professional Portfolio
 
 ## Description:
-It is an application that can generate a README.md file from the command line using node/inquirer.
+This is a collection of my work and information.
 ## Table of Contents:
 * [title](#title)
 * [Description](#description)
@@ -16,20 +16,20 @@ It is an application that can generate a README.md file from the command line us
 * [Testing](#testing)
 * [Questions](#questions)
       
-## Installation: for this app to work inquirer must be installed in the command line.
+## Installation: This is just an HTML page so all ypu have to do is click on the link below to deploy the page.
 
 ## Usage: 
-to use this app, open index.js. In the terminal type ' node index ' and then answer the questions. once you have completed all the questions a README-GENERATOR.md file will appear in the root of your folder.
+This project will fill out more as time goes on, and can be a reference for any potential employers.
 ## Licensing: This application is covered under MIT License.
 
-## Contributing: If you would like to contribute to this project feel free to reach out to me.
-
-## Testing Instructions: testing was done through VS code bash terminal, if you find errors let me know!
-
-## Questions: IF you have ant questions feel free to ask!
-
+## Contributing: 
+Since this is my personal Portfolio please ask about contributing.
+## Testing Instructions: 
+No testing was done on this project other than in the code editor. 
+## Questions: 
+Feel free to ask if you have any questions.
 Contact Me:
 
 Github: https://github.com/banjosquash
 
-Email: me@yahoo.com
+Email: braymcmahan@yahoo.com
