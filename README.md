@@ -3,6 +3,15 @@
 
 # Title:  ReadMe Generator
 
+## screenshot
+![](images/2022-11-10%20(3).png)
+
+## link to video walkthrough
+https://drive.google.com/file/d/1DbeV_Tn9ic667nrUuPIRFsopEYHZQJlD/view?usp=share_link
+
+
+
+
 ## Description:
 It is an application that can generate a README.md file from the command line using node/inquirer.
 ## Table of Contents:
@@ -16,7 +25,9 @@ It is an application that can generate a README.md file from the command line us
 * [Testing](#testing)
 * [Questions](#questions)
       
-## Installation: for this app to work inquirer must be installed in the command line.
+## Installation: 
+for this app to work inquirer must be installed in the command line. just type npm i.
+
 
 ## Usage: 
 to use this app, open index.js. In the terminal type ' node index ' and then answer the questions. once you have completed all the questions a README-GENERATOR.md file will appear in the root of your folder.

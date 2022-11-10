@@ -1,10 +1,13 @@
 
 ### License: [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT), (https://opensource.org/licenses/MIT)
 
-# Title: Professional Portfolio
+# Title: Project 1
+
+## screenshot
+
 
 ## Description:
-This is a collection of my work and information.
+this is a simple read me generator
 ## Table of Contents:
 * [title](#title)
 * [Description](#description)
@@ -16,18 +19,18 @@ This is a collection of my work and information.
 * [Testing](#testing)
 * [Questions](#questions)
       
-## Installation: This is just an HTML page so all ypu have to do is click on the link below to deploy the page.
+## Installation: pull the repo onto your local machine, then type "node index". After that just answer the questions in the command line.
 
 ## Usage: 
-This project will fill out more as time goes on, and can be a reference for any potential employers.
+This is a very handy tool to quickly build a readme for your project
 ## Licensing: This application is covered under MIT License.
 
 ## Contributing: 
-Since this is my personal Portfolio please ask about contributing.
+Feel free to contribute to this project>
 ## Testing Instructions: 
-No testing was done on this project other than in the code editor. 
+testing done in the code  editor
 ## Questions: 
-Feel free to ask if you have any questions.
+Feel free to ask any questions.
 Contact Me:
 
 Github: https://github.com/banjosquash
